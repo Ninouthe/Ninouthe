@@ -4,3 +4,10 @@
 h3{
     padding-left:4rem;
 }
+.bgcolor{
+    background-color: rgb(149, 134, 163);
+    margin-top: 20rem;
+    height: 10vh;
+    text-align: center;
+    padding-top:1.5rem;
+}
